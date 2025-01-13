@@ -35,16 +35,24 @@ Edit run_miner.sh, on part **address** and **Worker001**.
 ```bash
 vim run_miner.sh
 ```
-> press 'i'
-> edit address/worker
-> press esc
+- press 'i'
+- edit address/worker
+- press esc
 ```bash
 :wq
 ```
-> enter
+- enter
 
 Run the `run_miner.sh` script to start mining.
 
+```bash
+./run_miner.sh
+```
+
+---
+
+### 4. Cloudshell Reconnected
+just run the miner
 ```bash
 ./run_miner.sh
 ```
