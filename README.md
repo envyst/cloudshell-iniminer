@@ -28,6 +28,8 @@ chmod +x download_and_prepare.sh
 
 ### 3. Run Mine
 
+Edit run_miner.sh, on part address and Worker001. update with another worker name.
+
 Run the `run_miner.sh` script to start mining.
 
 ```bash
