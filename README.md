@@ -12,6 +12,9 @@ This guide explains how to set up and run the INI Miner on a Linux machine.
 
 ### 1. Clone the Repository or Download the Scripts
 Download the necessary Bash scripts or clone this repository (if applicable).
+```bash
+git clone https://github.com/envyst/cloudshell-iniminer.git
+```
 
 ---
 
