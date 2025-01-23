@@ -45,15 +45,21 @@ vim run_miner.sh
 - enter
 
 Run the `run_miner.sh` script to start mining.
+```bash
+screen -S iniminer
+```
 
 ```bash
 ./run_miner.sh
 ```
+then Ctrl + A D
 
 ---
 
 ### 4. Cloudshell Reconnected
 just run the miner
 ```bash
+screen -r iniminer
 ./run_miner.sh
 ```
+then Ctrl + A D
